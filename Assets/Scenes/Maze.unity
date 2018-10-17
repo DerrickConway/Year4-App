@@ -1166,6 +1166,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 611273988}
+  - component: {fileID: 611273989}
   m_Layer: 0
   m_Name: PickUps
   m_TagString: CoinPickUp
@@ -1195,6 +1196,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &611273989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 611273987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327014a27cc06a74494bdcb380bb9ab9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &679896100
 Prefab:
   m_ObjectHideFlags: 0
@@ -1307,6 +1319,7 @@ GameObject:
   - component: {fileID: 729776437}
   - component: {fileID: 729776436}
   - component: {fileID: 729776439}
+  - component: {fileID: 729776440}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -1407,6 +1420,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2744b776549f377449fb8f83a78b68d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &729776440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 729776435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327014a27cc06a74494bdcb380bb9ab9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &750613186
@@ -1570,6 +1594,7 @@ GameObject:
   - component: {fileID: 843291045}
   - component: {fileID: 843291044}
   - component: {fileID: 843291047}
+  - component: {fileID: 843291048}
   m_Layer: 0
   m_Name: Key
   m_TagString: Untagged
@@ -1673,6 +1698,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   invKey: {fileID: 1141873059}
+--- !u!114 &843291048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 843291043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327014a27cc06a74494bdcb380bb9ab9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &895944189 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4843722622940100, guid: 4003f863de48fc540bb6f6928a5097d7,
@@ -2230,6 +2266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1141873059}
   - component: {fileID: 1141873060}
+  - component: {fileID: 1141873061}
   m_Layer: 0
   m_Name: Key (1)
   m_TagString: Untagged
@@ -2296,6 +2333,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1141873061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1141873058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327014a27cc06a74494bdcb380bb9ab9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1154223265
 Prefab:
   m_ObjectHideFlags: 0

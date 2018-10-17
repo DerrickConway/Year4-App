@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour {
 
     public static string haveKey = "n";
-
+    public static string gameDif = "none";
     public float speed;
     public Text countText;
 
