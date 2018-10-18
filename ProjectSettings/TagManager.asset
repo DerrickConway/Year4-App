@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Easy
   - 
   - 
   - 
@@ -56,4 +56,7 @@ TagManager:
     locked: 0
   - name: Key
     uniqueID: 1886489855
+    locked: 0
+  - name: Easy
+    uniqueID: 2002321887
     locked: 0

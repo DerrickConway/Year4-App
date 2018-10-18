@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\pauseScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Difficulty.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
