@@ -17,8 +17,6 @@ public class pauseScript : MonoBehaviour {
 
     public void Pause()
     {
-        
-        
             paused = !paused;
         
         if (paused)

@@ -65,6 +65,7 @@
     <Compile Include="Assets\pauseScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Difficulty.cs" />
+    <Compile Include="Assets\Scripts\DontDistroyAudio.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
     <Compile Include="Assets\Scripts\exitControlle.cs" />
     <Compile Include="Assets\Scripts\Items.cs" />
