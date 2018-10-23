@@ -21,4 +21,6 @@ public class Difficulty : MonoBehaviour {
         Debug.Log(PlayerController.gameDif);
         SceneManager.LoadScene("Maze");
     }
+
+   
 }
