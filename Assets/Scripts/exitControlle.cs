@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class exitControlle : MonoBehaviour {
 
@@ -19,7 +20,8 @@ public class exitControlle : MonoBehaviour {
     {
         if (other.name == "Player")
         {
-           // winText.text = "You Win";
+            SceneManager.LoadScene("Difficulty");
+            // winText.text = "You Win";
             Debug.Log("You win");
         }
     }
