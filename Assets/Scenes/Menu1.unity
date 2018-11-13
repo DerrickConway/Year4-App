@@ -603,7 +603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
+  m_Color: {r: 0.9150943, g: 0.038848326, b: 0.038848326, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -623,7 +623,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+  m_Text: "To move corrector, use UP, DOWN, LEFT, RIGHT arrow keys.\r\nIn EASY level
+    your goal is to find your way through the maze\r.\nIn MEDIUM level your goal is
+    to collect the coins to exit the level\r.\nIn HARD level you are to collect all
+    coins and find the key to unlock the door and exit.\r\n"
 --- !u!222 &618976827
 CanvasRenderer:
   m_ObjectHideFlags: 0
