@@ -11,7 +11,9 @@ public class PlayerController : MonoBehaviour {
     public Text countText;
 
     private Rigidbody2D rb2d; 
-    private int count;
+    //private int count;
+    public static int count;
+
 
     void Start()
     {

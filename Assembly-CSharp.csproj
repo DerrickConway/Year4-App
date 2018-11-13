@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
+    <Compile Include="Assets\share.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/derri/OneDrive/Desktop/Maze-Runner1.0/Maze-Renner1.0/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
